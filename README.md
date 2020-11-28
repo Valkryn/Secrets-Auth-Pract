@@ -5,3 +5,12 @@ Level 1 -
 
 Level 2 -
   Password encryption with mongoose-encryption
+
+Level 3 -
+  Hashing Passwords instead of using process.env.____
+
+Level 4
+  Bcrypt and salting hashes
+
+Level 5
+  
