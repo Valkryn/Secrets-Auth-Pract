@@ -12,5 +12,8 @@ Level 3 -
 Level 4
   Bcrypt and salting hashes
 
-Level 5
-  
+Level 5 -
+  Cookies and Sessions
+
+Level 6
+  Oauth Google
